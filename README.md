@@ -1,1 +1,1 @@
-# Algoritmos E Lógica de Programação
+<img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Algoritmos%20&textBg=false&desc=E%20Lógica%20de%20Programação&descAlignY=55&fontAlignY=33&descSize=30"/>
